@@ -8,6 +8,8 @@
 #include<sstream>
 #include<iostream>
 
+#include <glm/glm.hpp>
+
 class Shader
 {
 public:
@@ -101,6 +103,10 @@ public:
 	void SetInt(const std::string& name, int value)const
 	{
 		glUniform1i(glGetUniformLocation(ID, name.c_str()), value);
+	}
+	void SetMat4(const std::string& name, glm::mat4 value)const
+	{
+		glUniformMatrix4fv(glGetUniformLocation(ID, name.c_str()), 1, GL_FALSE, &value[0][0]);
 	}
 };
 
