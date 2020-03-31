@@ -1,2 +1,10 @@
 ﻿  main.cpp
+D:\Personal Training\Graphic API\Projects\OpenGL\OpenGL Triangle Shader\OpenGL-Triangle-Shader\OpenGL Triangle Shader\OpenGL Triangle Shader\main.cpp(189,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Personal Training\Graphic API\Projects\OpenGL\OpenGL Triangle Shader\OpenGL-Triangle-Shader\OpenGL Triangle Shader\OpenGL Triangle Shader\main.cpp(256,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Personal Training\Graphic API\Projects\OpenGL\OpenGL Triangle Shader\OpenGL-Triangle-Shader\OpenGL Triangle Shader\OpenGL Triangle Shader\main.cpp(257,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Personal Training\Graphic API\Projects\OpenGL\OpenGL Triangle Shader\OpenGL-Triangle-Shader\OpenGL Triangle Shader\OpenGL Triangle Shader\main.cpp(261,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Personal Training\Graphic API\Projects\OpenGL\OpenGL Triangle Shader\OpenGL-Triangle-Shader\OpenGL Triangle Shader\OpenGL Triangle Shader\main.cpp(262,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Personal Training\Graphic API\Projects\OpenGL\OpenGL Triangle Shader\OpenGL-Triangle-Shader\OpenGL Triangle Shader\OpenGL Triangle Shader\main.cpp(263,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Personal Training\Graphic API\Projects\OpenGL\OpenGL Triangle Shader\OpenGL-Triangle-Shader\OpenGL Triangle Shader\OpenGL Triangle Shader\main.cpp(264,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Personal Training\Graphic API\Projects\OpenGL\OpenGL Triangle Shader\OpenGL-Triangle-Shader\OpenGL Triangle Shader\OpenGL Triangle Shader\main.cpp(288,17): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
   OpenGL Triangle Shader.vcxproj -> D:\Personal Training\Graphic API\Projects\OpenGL\OpenGL Triangle Shader\OpenGL-Triangle-Shader\OpenGL Triangle Shader\Debug\OpenGL Triangle Shader.exe
